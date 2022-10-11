@@ -1,2 +1,1 @@
-# Stopwatch
-Stopwatch created using html, css and JavaScript.
+## Link to the project :-https://stopwatch1234.netlify.app
